@@ -1,0 +1,22 @@
+.portfolio-container {
+    padding: 2rem;
+  }
+  
+  .portfolio-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 2rem;
+  }
+  
+  .project-card {
+    background-color: #ffffff;
+    padding: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+  
+  .project-card:hover {
+    transform: rotate3d(1, 1, 0, 10deg);
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.3);
+  }
