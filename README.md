@@ -1,33 +1,37 @@
-# Regex-Tutorial
+# React Portfolio
 
 ## Description
-This project is a comprehensive tutorial that breaks down how the **Email Matching Regex** (`/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/`) works. The tutorial explains each component of the regex, provides examples, and helps readers understand how regular expressions validate email formats.
+
+Welcome to my React Portfolio! This application is designed to showcase my projects, skills, and experience as a developer. Built with **React.js**, it provides an engaging and responsive platform to highlight my work. Visitors can explore my portfolio, learn about me, and contact me directly.
+
+## Screenshot
+
+<img width="1440" alt="Screen Shot 2024-11-25 at 11 36 41 PM" src="https://github.com/user-attachments/assets/ebbf8fb3-8dd2-4abd-9f5c-334d50103fe1">
+
+<img width="1440" alt="Screen Shot 2024-11-25 at 11 38 24 PM" src="https://github.com/user-attachments/assets/088fb2fb-7c2b-428d-91f3-4fc1dcc31c74">
 
 ## Table of Contents
-1. [Overview](#overview)
-2. [Features](#features)
-3. [Usage](#usage)
-4. [Contributing](#contributing)
-5. [License](#license)
-6. [Author](#author)
 
-## Overview
-Regular expressions, or regex, are essential tools for pattern matching in text. This tutorial demystifies regex by breaking down each part of a commonly used expression for email validation. It’s ideal for beginners and seasoned developers alike.
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Screenshots](#screenshots)
+- [License](#license)
+- [Contact](#contact)
 
-## Features
-- Detailed breakdown of the email regex.
-- Real-world examples to understand each regex component.
-- Markdown-based tutorial hosted on a GitHub Gist.
+## Installation
 
-## Usage
-To view the full tutorial, visit the Gist:
-[Regex Tutorial Gist](https://gist.github.com/8ddf8995fdcbf2705e248495300bb067)
+To run this project locally, follow these steps:
 
-## Contributing
-Contributions are welcome! Feel free to fork the project or submit suggestions by opening an issue.
-
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/React-Portfolio.git
 ## License
 This project is licensed under the MIT License. See `LICENSE` for more information.
 
 ## Author
 Created by [Bitsiet Assefa]
+
+
