@@ -12,7 +12,7 @@ function Footer() {
                 <a href="https://stackoverflow.com/users/YourStackOverflowID" target="_blank" rel="noopener noreferrer">
                     <i className="fab fa-stack-overflow"></i> Stack Overflow
                 </a>
-                <a href="https://www.linkedin.com/in/YourLinkedInProfile" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.linkedin.com/in/bitsiet-assefa-644760271?trk=contact-info" target="_blank" rel="noopener noreferrer">
                     <i className="fab fa-linkedin"></i> LinkedIn
                 </a>
             </div>
