@@ -1,0 +1,9 @@
+.Trash/
+Documents/
+Downloads/
+../
+../../
+.npm/
+.ssh/
+.vscode/
+.DS_Store
